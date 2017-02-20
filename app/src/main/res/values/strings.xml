@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecipientApp</string>
+
+    <string name="gps_network_not_enabled">GPS Not Enabled</string>
+    <string name="open_location_settings">Turn On</string>
+    <string name="Cancel">Cancel</string>
+</resources>
