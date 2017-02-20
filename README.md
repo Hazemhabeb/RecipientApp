@@ -11,3 +11,5 @@ google plus signin https://developers.google.com/identity/sign-in/android/
 
 google services (map , location) https://developer.android.com/google/index.html
 
+the other app repository link https://github.com/Hazemhabeb/MyApplication
+
